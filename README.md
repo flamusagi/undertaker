@@ -1,2 +1,2 @@
-# eclispe
+# eclipse
 escape from reality
